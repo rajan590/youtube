@@ -1,0 +1,57 @@
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.thumbnail{
+    width: 100%;
+}
+
+
+
+
+
+.profile-picture{
+    width:40px;
+    border-radius: 25px;
+
+}
+.video-title{
+    margin-top: 0;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 12px;
+    
+}
+
+.video-author{
+    font-size: 12px;
+    color: #777;
+    margin-bottom: 4px;
+}
+
+.video-stats{
+    font-size: 12px;
+    color: #777;
+   
+}
+.thumbnail-row{
+    margin-bottom: 14px;
+}
+.video-info-container{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+
+.video-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 16px;
+    row-gap: 40px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 15px;
+}

@@ -1,0 +1,74 @@
+.side-bar{
+    
+    position: fixed;
+    left:0 ;
+    bottom: 0;
+    top: 55px;
+    width:75px;
+    font-size: 11px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    padding-top: 10px;
+}
+
+.sidebar-linkh >img{
+   height:25px;
+   margin-bottom: 4px;
+   padding-left: 2px;
+
+}
+
+.sidebar-linkh{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.sidebar-linke>img{
+
+    height:23px;
+    margin-bottom: 4px;
+    padding-left: 5px;
+      
+}
+.sidebar-linke{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+
+.sidebar-links>img{
+
+    height:23px;
+    margin-bottom: 4px;
+    padding-left: 14px;     
+}
+.sidebar-links{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.sidebar-linko>img{
+
+    height:23px;
+    margin-bottom: 4px;
+    padding-left: 6px;     
+}
+.sidebar-linko{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.sidebar-linky>img{
+
+    height:23px;
+    margin-bottom: 4px;
+    padding-left: 19px;     
+}
+.sidebar-linky{
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.sidebar-linkl>img{
+
+    height:23px;
+    margin-bottom: 4px;
+    padding-left: 4px;     
+}
